@@ -19,5 +19,5 @@
 	/*Just trollin'.*/
 	body{
 		background-image:url(http://24.media.tumblr.com/tumblr_lg80miGH2i1qa5z1ro1_400.gif);
-		background-repeat: repeat;
+		background-repeat: repeat; /*This is default, but I included it anyway.*/
 	}
