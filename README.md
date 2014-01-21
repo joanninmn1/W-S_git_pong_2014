@@ -16,6 +16,15 @@ Contributors
 -----------
 - @bmoren
 - @albnz
+<<<<<<< HEAD
 - @cvaccaro
 
 
+=======
+- @acarlson237
+- @cschlewitz
+- @dylanburns
+- @amrutabuge
+- @cschlewitz
+- @shelbylano
+>>>>>>> a0a9f2e1f1cd42ce316a30e7774d5046ebbb3669
