@@ -16,5 +16,6 @@ Contributors
 -----------
 - @bmoren
 - @albnz
+- @cvaccaro
 
 
