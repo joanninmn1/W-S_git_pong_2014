@@ -56,3 +56,7 @@ resources for inspiration:
 * http://www.sterlingcrispin.com
 * ...add more as you see fit (keep in the net artist theme!)
 
+github resources:
+-------------
+* http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oudrvfRsKDuLik
+
