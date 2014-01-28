@@ -2,7 +2,7 @@ Git-Pong
 =========
 Rules
 -----------
-1. you can add rules here
+1. you can add / do anything you would like as long as it does not break these rules.
 2. you cannot delete anything
 3. ...
 
@@ -14,8 +14,14 @@ Add anthing special that is required here for tracking
 
 Contributors
 -----------
-- @bmoren
-- @iruder
-- @joanninmn1
-- @albnz
-- @acarlson237
+@cvaccaro
+@amrutabuge
+@acarlson237
+@joanninmn1
+@nskogen
+@sodapoph
+@albnz
+@iruder
+@shelbylano
+@dylanburns
+@cschlewitz
