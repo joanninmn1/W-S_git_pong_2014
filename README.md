@@ -1,4 +1,4 @@
-Git-Pong
+[Git-Pong](http://bmoren.github.io/W-S_git_pong_2014/)
 =========
 Rules for edits
 -----------
@@ -15,13 +15,7 @@ Rules for volleys
 4. Add a +1 count to your volley count in the list below to keep track in an easy to identiy visual way 
 5. make at least 3 edits this semester!
 6. Once you have pushed up your commits, email Ben so that he can pass the repo on to the next contributor.
-
-How to push your commmits to the gh-pages branch to display on the public facing site
------------
-1. short answer is [here](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/existing-project/project-page/existing-repo/)
-2. change to the gh-pages branch by in the menu: repository>switch to branch>gh-pages
-3. sync branch
-4. change back to the master branch by in the menu: repository>switch to branch>master
+7. we are working in the gh-pages branch so that our updates can automagically be be seen at [here](http://bmoren.github.io/W-S_git_pong_2014/)
 
 Requirements
 -----------
