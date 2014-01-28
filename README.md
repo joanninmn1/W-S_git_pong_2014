@@ -4,6 +4,8 @@ Rules for edits
 -----------
 1. you can add / do anything you would like as long as it does not break these rules.
 2. you cannot delete anything
+3. add clear comments where nessicary so your collaborators know how the things you added work. 
+4. try to keep organized, if you wont remember how it worked / where it was, how will anyone else?!
 
 Rules for volleys
 -----------
@@ -17,7 +19,8 @@ Rules for volleys
 Requirements
 -----------
 Add anthing that is required for the page to render here for tracking
-1. jQuery
+1. jQuery - http://jquery.com/
+2. add more as they become relevant...
 
 Contributors | volleys
 -----------
