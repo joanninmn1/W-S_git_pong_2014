@@ -22,51 +22,34 @@ Add anthing that is required for the page to render here for tracking
 
 Contributors | volleys
 -----------
-<<<<<<< HEAD
-@bmoren | 1
-@cvaccaro | 0
-@amrutabuge | 0
-@acarlson237 | 0
-@joanninmn1 | 0
-@nskogen | 0
-@sodapoph | 0
-@albnz | 0
-@iruder | 0
-@shelbylano | 0
-@dylanburns | 0
-@cschlewitz | 0
+* @bmoren | 1
+* @cvaccaro | 0
+* @amrutabuge | 0
+* @acarlson237 | 0
+* @joanninmn1 | 0
+* @nskogen | 0
+* @sodapoph | 0
+* @albnz | 0
+* @iruder | 0
+* @shelbylano | 0
+* @dylanburns | 0
+* @cschlewitz | 0
 
 resources for inspiration:
 -------------
-http://www.bubblebyte.org
-http://www.newrafael.com
-http://www.anthonyantonellis.com
-http://www.jennifer-chan.com
-http://jonrafman.com
-http://www.petracortright.com
-http://ryder-ripps.com/
-http://okfoc.us/
-http://www.computersclub.org
-http://fffff.at
-http://blog.evan-roth.com
-http://e.m-bed.de/d
-http://vincemckelvie.tumblr.com
-http://www.sterlingcrispin.com
-...add more as you see fit (keep in the net artist theme!)
+* http://www.bubblebyte.org
+* http://www.newrafael.com
+* http://www.anthonyantonellis.com
+* http://www.jennifer-chan.com
+* http://jonrafman.com
+* http://www.petracortright.com
+* http://ryder-ripps.com/
+* http://okfoc.us/
+* http://www.computersclub.org
+* http://fffff.at
+* http://blog.evan-roth.com
+* http://e.m-bed.de/d
+* http://vincemckelvie.tumblr.com
+* http://www.sterlingcrispin.com
+* ...add more as you see fit (keep in the net artist theme!)
 
-=======
-- @bmoren
-- @albnz
-<<<<<<< HEAD
-- @cvaccaro
-
-
-=======
-- @acarlson237
-- @cschlewitz
-- @dylanburns
-- @amrutabuge
-- @cschlewitz
-- @shelbylano
->>>>>>> a0a9f2e1f1cd42ce316a30e7774d5046ebbb3669
->>>>>>> 7dd07b5970311587aba550d8831ff45e2d8414e7
