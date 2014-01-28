@@ -9,7 +9,7 @@
 	    // render the colors to the screen using the animate jquery call while iterating throught the array. 
 	    $('#hello-world').animate({color:kcColor[kcCount]}, 1000);
 	    // loop this function every 500ms
-		interval = setTimeout("rainb()", 500);
+		interval = setTimeout("rainb()", 900);
 	}
 ////////////~`~`~`~`~`~`~`~`~`~`~`~`End Rainbow function`~`~`~`~`~`~`~`~`~`~`~`///////////
 	
@@ -17,5 +17,35 @@
 $(document).ready(function() {
 	//Start Color Changing by calling the function (init)
 	rainb();
+});
+
+
+
+//////Shelby's box business://////
+
+$(document).ready(function(event){
+	
+	// INTERACTION FUNCTIONS & EVENT LISTENERS
+	
+	$('.creature a').click(function(event){
+		
+		event.preventDefault();
+		
+		var t = event.target;
+		
+		var l = $(t).position().left + 100;
+		
+		$(t).animate({ 'left' : l }, 250);
+		
+		console.log(l);
+		
+	});
+	
+	
+	function init() {	
+	}
+	
+	init();
+	
 });
 

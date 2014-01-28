@@ -7,18 +7,46 @@
 		top:50%;left:50%;
 		margin-left: -165px;
 		margin-top: -40px;
-		text-shadow:30px 20px 10px;
+		text-shadow:3px 3px 3px;
 		-webkit-transition: all 0.3s ease;
 		-moz-transition: all 0.3s ease; -o-transition: all 0.3s ease;
 		-ms-transition: all 0.3s ease;transition: all 0.3s ease;
 	}
 
 	#hello-world:hover{ 
-		text-shadow:30px 20px 100px;
+		text-shadow:3px 3px 3px;
 	}
+
+
+/* Here are some cute lil boxes that you can click */
+	.creature a {
+		width: 70px;height:70px;
+		background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric3.gif);
+		background-repeat: no-repeat;
+		background-position: center;
+		display:block;
+		position:relative;
+
+	}
+
+	.creature2 a {
+		margin-left:80px;
+	}
+	.creature3 a {
+		margin-left:160px;
+	}
+
+	.creature a:hover{
+	border:2px dotted white;
+
+}
+	
 	/*Just trollin'.*/
 	body{
 		/*This dude has some awesome over-the-top backgrounds, check 'em out!*/
 		/*http://iamchriscollins.com/piece/tile-gifs*/
 		background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric1.gif);
+		background-repeat: no-repeat;
+		background-position: center;
+		padding-top: 400px;
 	}
