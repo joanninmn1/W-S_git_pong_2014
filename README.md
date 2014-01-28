@@ -16,27 +16,34 @@ Rules for volleys
 5. make at least 3 edits this semester!
 6. Once you have pushed up your commits, email Ben so that he can pass the repo on to the next contributor.
 
+How to push your commmits to the gh-pages branch to display on the public facing site
+-----------
+1. short answer is [here](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/existing-project/project-page/existing-repo/)
+2. change to the gh-pages branch by in the menu: repository>switch to branch>gh-pages
+3. push
+4. change back to the master branch by in the menu: repository>switch to branch>master
+
 Requirements
 -----------
 Add anthing that is required for the page to render here for tracking
 
 1. jQuery - http://jquery.com/
-2. add more as they become relevant...
+2. add more as they become relevant / used ...
 
 Contributors | volleys
 -----------
-* @bmoren | 1
-* @cvaccaro | 0
-* @amrutabuge | 0
-* @acarlson237 | 1
-* @joanninmn1 | 0
-* @nskogen | 0
-* @sodapoph | 0
-* @albnz | 0
-* @iruder | 0
-* @shelbylano | 0
-* @dylanburns | 0
-* @cschlewitz | 0
+* [@bmoren](http://github.com/bmoren) | 1
+* [@cvaccaro](http://github.com/cvaccaro) | 0
+* [@amrutabuge](http://github.com/amrutabuge)  | 0
+* [@acarlson237](http://github.com/acarlson237)  | 1
+* [@joanninmn1](http://github.com/joanninmn1)  | 0
+* [@nskogen](http://github.com/nskogen)  | 0
+* [@sodapoph](http://github.com/sodapoph)  | 0
+* [@albnz](http://github.com/albnz)  | 0
+* [@iruder](http://github.com/iruder)  | 0
+* [@shelbylano](http://github.com/shelbylano)  | 0
+* [@dylanburns](http://github.com/dylanburns)  | 0
+* [@cschlewitz](http://github.com/schlewitz)  | 0
 
 resources for inspiration:
 -------------
@@ -59,4 +66,8 @@ resources for inspiration:
 github resources:
 -------------
 * http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oudrvfRsKDuLik
+* https://help.github.com/articles/markdown-basics
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 
