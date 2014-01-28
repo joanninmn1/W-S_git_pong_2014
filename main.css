@@ -16,3 +16,9 @@
 	#hello-world:hover{ 
 		text-shadow:3px 3px 100px;
 	}
+	/*Just trollin'.*/
+	body{
+		/*This dude has some awesome over-the-top backgrounds, check 'em out!*/
+		/*http://iamchriscollins.com/piece/tile-gifs*/
+		background-image:url(http://iamchriscollins.com/heds/bkg.gif);
+	}
