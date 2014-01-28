@@ -2,10 +2,11 @@
 =========
 Rules for edits
 -----------
-1. you can add / do anything you would like as long as it does not break these rules.
-2. you cannot delete anything
-3. add clear comments where nessicary so your collaborators know how the things you added work. 
-4. try to keep organized, if you wont remember how it worked / where it was, how will anyone else?!
+1. You can add / do anything you would like as long as it does not break these rules.
+2. You cannot delete anything
+3. Add clear comments where nessicary so your collaborators know how the things you added work. 
+4. Try to keep organized, if you wont remember how it worked / where it was, how will anyone else?!
+5. Updates can be big or small, but should ideally be a 'real' contribution.
 
 Rules for volleys
 -----------
@@ -13,9 +14,8 @@ Rules for volleys
 2. You have a maximum of 2 days to make your edits
 3. Commit and Push up your edits to this repo after you are finished
 4. Add a +1 count to your volley count in the list below to keep track in an easy to identiy visual way 
-5. make at least 3 edits this semester!
-6. Once you have pushed your commit, email Ben. He will pass the repo on to the next contributor.
-7. we are working in the gh-pages branch so that our updates can automagically be be seen at [here](http://bmoren.github.io/W-S_git_pong_2014/)
+5. Once you have pushed your commit, email Ben. He will pass the repo on to the next contributor.
+6. We are working in the gh-pages branch so that our updates can automagically be be seen at [here](http://bmoren.github.io/W-S_git_pong_2014/)
 
 Requirements
 -----------
