@@ -4,7 +4,6 @@ Rules for edits
 -----------
 1. you can add / do anything you would like as long as it does not break these rules.
 2. you cannot delete anything
-3. ...
 
 Rules for volleys
 -----------
