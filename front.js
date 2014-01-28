@@ -40,6 +40,20 @@ $(document).ready(function(event){
 		console.log(l);
 		
 	});
+
+		$('.weird a').click(function(event){
+		
+		event.preventDefault();
+		
+		var t = event.target;
+		
+		var l = $(t).position().top + 100;
+		
+		$(t).animate({ 'top' : l }, 250);
+		
+		console.log(l);
+		
+	});
 	
 	
 	function init() {	

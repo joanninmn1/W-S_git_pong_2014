@@ -3,9 +3,9 @@
 		font-family: arial-black; 
 		font-size: 48px;
 		position: absolute;
-		width: 330px;height:80px;
+		width: 500px;height:80px;
 		top:50%;left:50%;
-		margin-left: -165px;
+		margin-left: -250px;
 		margin-top: -40px;
 		text-shadow:3px 3px 3px;
 		-webkit-transition: all 0.3s ease;
@@ -15,6 +15,12 @@
 
 	#hello-world:hover{ 
 		text-shadow:3px 3px 3px;
+		/*Added_CSS3*/
+		-moz-transform: rotate(360deg);
+		-webkit-transform: rotate(360deg);
+		-o-transform: rotate(360deg);
+		-ms-transform: rotate(360deg);
+		transform: rotate(360deg);
 	}
 
 
@@ -26,6 +32,17 @@
 		background-position: center;
 		display:block;
 		position:relative;
+		/*Added_CSS3*/
+		transition:All 1s ease-in;
+		-webkit-transition:All 1s ease-in;
+		-moz-transition:All 1s ease-in;
+		-o-transition:All 1s ease-in;
+		transform: scale(1) skew(1deg) translate(10px);
+		-webkit-transform: scale(1) skew(1deg) translate(10px);
+		-moz-transform:  scale(1) skew(1deg) translate(10px);
+		-o-transform:  scale(1) skew(1deg) translate(10px);
+		-ms-transform:  scale(1) skew(1deg) translate(10px);
+		}
 
 	}
 
@@ -38,8 +55,48 @@
 
 	.creature a:hover{
 	border:2px dotted white;
-
+	/*Added_CSS3 functionality*/
+	transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-webkit-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-moz-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-o-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-ms-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
 }
+
+/*Added some weird boxes --> Click them!*/
+
+	.weird a{
+		width: 70px;height:70px;
+		background-image:url(http://i.imgur.com/GH9SJ1A.gif);
+		background-repeat: no-repeat;
+		background-position: center;
+		display:block;
+		position:relative;
+	}
+
+	.weird2 a{
+		margin-bottom:160px;
+	}
+
+
+	.weird3 a{
+		margin-left:500px;
+	}
+
+		.weird4 a{
+		margin-left:800px;
+		margin-top:400px;
+	}
+
+
+	.weird a:hover{
+	transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-webkit-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-moz-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-o-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	-ms-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+	}
+	
 	
 	/*Just trollin'.*/
 	body{
@@ -48,5 +105,5 @@
 		background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric1.gif);
 		background-repeat: no-repeat;
 		background-position: center;
-		padding-top: 400px;
+		padding-top: 200px;
 	}
