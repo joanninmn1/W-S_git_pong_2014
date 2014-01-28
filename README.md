@@ -20,7 +20,7 @@ How to push your commmits to the gh-pages branch to display on the public facing
 -----------
 1. short answer is [here](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/existing-project/project-page/existing-repo/)
 2. change to the gh-pages branch by in the menu: repository>switch to branch>gh-pages
-3. push
+3. sync branch
 4. change back to the master branch by in the menu: repository>switch to branch>master
 
 Requirements
