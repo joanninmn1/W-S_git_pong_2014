@@ -63,3 +63,33 @@ $(document).ready(function(event){
 	
 });
 
+
+// Enable jQuery ui dragging
+    $(function() {
+        $( ".draggable" ).draggable();
+    });
+// Enable jQuery ui resize
+    $(function() {
+        $( ".resizable" ).resizable({
+            helper: "ui-resizable-helper"
+        });
+    });
+
+// Sparkly mouse (!!!)
+	$(document).ready(function() {
+
+	    $(document).mousemove(function(e) {
+
+			//create img elements and appending to body
+			pointer = $('<img>').attr({'src':'images/sparkles.gif'});
+			$(document.body).append(pointer);
+
+			//show at mouse position and fade
+                pointer.css({
+                        'position':'absolute', 'z-index':'0',
+                        top: e.pageY +16 ,    //offsets
+                        left: e.pageX +16   //offsets
+                    }).fadeOut(1600);     
+	    });
+	});
+
