@@ -34,7 +34,7 @@ Contributors | volleys
 * [@nskogen](http://github.com/nskogen)  | 0
 * [@sodapoph](http://github.com/sodapoph)  | 0
 * [@albnz](http://github.com/albnz)  | 0
-* [@iruder](http://github.com/iruder)  | 1
+* [@iruder](http://github.com/iruder) | 1
 * [@shelbylano](http://github.com/shelbylano)  | 1
 * [@dylanburns](http://github.com/dylanburns)  | 0
 * [@cschlewitz](http://github.com/schlewitz)  | 0
