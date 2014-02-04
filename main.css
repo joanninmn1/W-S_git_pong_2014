@@ -122,6 +122,30 @@
 	-ms-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
 	}
 	
+	/* added in a sassy link to a Youtube video */
+
+	h2 {
+
+		margin-left: 500px;
+		position: relative;
+		font-color: #f25aa9;
+		font-size: 18px;
+		font-family: Helvetica;
+		font-style: italic;
+	}
+
+	a:link {
+
+		text-decoration:none;
+
+	}
+
+	a:hover {
+
+		background: #eb9bc5;
+
+
+	}
 	
 	/*Just trollin'.*/
 	body{
