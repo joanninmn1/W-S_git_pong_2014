@@ -32,7 +32,7 @@ Contributors | volleys
 * [@acarlson237](http://github.com/acarlson237)  | 1
 * [@joanninmn1](http://github.com/joanninmn1)  | 0
 * [@nskogen](http://github.com/nskogen)  | 0
-* [@sodapoph](http://github.com/sodapoph)  | 0
+* [@sodapoph](http://github.com/sodapoph)  | 1
 * [@albnz](http://github.com/albnz)  | 0
 * [@iruder](http://github.com/iruder) | 1
 * [@shelbylano](http://github.com/shelbylano)  | 1
