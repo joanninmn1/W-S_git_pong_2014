@@ -17,7 +17,59 @@
 $(document).ready(function() {
 	//Start Color Changing by calling the function (init)
 	rainb();
+	
+	
+	////Dylan's animatin' borders////
+	stretchBorder1();
+	shrinkBorder2();
+	
 });
+
+
+////Dylan's thing
+function stretchBorder1(){
+	$('#dylansBorder1').animate({
+				left: 0,
+				right: 0,
+				top: 0,
+				bottom: 0
+			}, 800, function() {
+			returnBorder1();
+			});
+}
+
+function returnBorder1(){
+	$('#dylansBorder1').animate({
+				left: 20,
+				right: 20,
+				top: 20,
+				bottom: 20
+			}, 800, function() {
+			stretchBorder1();
+			});
+}
+
+function shrinkBorder2(){
+	$('#dylansBorder2').animate({
+				left: 20,
+				right: 20,
+				top: 20,
+				bottom: 20
+			}, 800, function() {
+			returnBorder2();
+			});
+}
+
+function returnBorder2(){
+	$('#dylansBorder2').animate({
+				left: 0,
+				right: 0,
+				top: 0,
+				bottom: 0
+			}, 800, function() {
+			shrinkBorder2();
+			});
+}
 
 
 
