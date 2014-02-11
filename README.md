@@ -36,7 +36,7 @@ Contributors | volleys
 * [@albnz](http://github.com/albnz)  | 0
 * [@iruder](http://github.com/iruder) | 1
 * [@shelbylano](http://github.com/shelbylano)  | 1
-* [@dylanburns](http://github.com/dylanburns)  | 0
+* [@dylanburns](http://github.com/dylanburns)  | 1
 * [@cschlewitz](http://github.com/schlewitz)  | 0
 
 resources for inspiration:
