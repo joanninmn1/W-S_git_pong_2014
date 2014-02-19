@@ -66,6 +66,33 @@
 				position:absolute; }
 
 
+#blue{
+	display:block;
+	position:relative;
+	margin: 0 auto;
+	margin-top:0px;
+	width:600px;
+	height:400px;
+	background-color:yellow;
+
+	}
+
+#red{
+	position: absolute;
+	margin: 0 auto;
+	width:300px;
+	height:200px;
+	background-color:blue;	
+	margin:100px 0px 0px 150px;
+	
+	-webkit-transition: -webkit-transform 0.2s; -moz-transition: -moz-transform 0.2s; -o-transition: -o-transform 0.2s; transition: transform 0.2s; 
+
+}
+
+#red:hover{
+	-webkit-transform: scale(1.80); -moz-transform: scale(1.80); -ms-transform: scale(1.80); -o-transform: scale(1.80); transform: scale(1.80)
+}
+
 
 
 /* Here are some cute lil boxes that you can click */
@@ -174,4 +201,8 @@
 		background-repeat: no-repeat;
 		background-position: center;
 		padding-top: 200px;
+	}	/*Just trollin'.*/
+	body{
+		background-image:url(http://24.media.tumblr.com/tumblr_lg80miGH2i1qa5z1ro1_400.gif);
+		background-repeat: repeat; /*This is default, but I included it anyway.*/
 	}
