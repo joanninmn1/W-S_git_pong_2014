@@ -196,13 +196,15 @@
 	/*Just trollin'.*/
 	body{
 		/*This dude has some awesome over-the-top backgrounds, check 'em out!*/
-		/*http://iamchriscollins.com/piece/tile-gifs*/
+		/*http://iamchriscollins.com/piece/tile-gifs
 		background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric1.gif);
 		background-repeat: no-repeat;
 		background-position: center;
-		padding-top: 200px;
+		padding-top: 200px;*/
 	}	/*Just trollin'.*/
+	
+	/*changed background*/
 	body{
-		background-image:url(http://24.media.tumblr.com/tumblr_lg80miGH2i1qa5z1ro1_400.gif);
+		background-image:url(images/animation.gif);
 		background-repeat: repeat; /*This is default, but I included it anyway.*/
 	}

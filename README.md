@@ -23,6 +23,7 @@ Add anthing that is required for the page to render here for tracking
 
 1. jQuery - http://jquery.com/
 2. add more as they become relevant / used ...
+3. added image to the images folder named: animation.gif
 
 Contributors | volleys
 -----------
@@ -30,7 +31,7 @@ Contributors | volleys
 * [@cvaccaro](http://github.com/cvaccaro) | 1
 * [@amrutabuge](http://github.com/amrutabuge)  | 0
 * [@acarlson237](http://github.com/acarlson237)  | 1
-* [@joanninmn1](http://github.com/joanninmn1)  | 0
+* [@joanninmn1](http://github.com/joanninmn1)  | 1
 * [@nskogen](http://github.com/nskogen)  | 0
 * [@sodapoph](http://github.com/sodapoph)  | 1
 * [@albnz](http://github.com/albnz)  | 1
