@@ -1,208 +1,211 @@
 	#dylansBorder1{
-		position:fixed;
-		left:20px;
-		right:20px;
-		top:20px;
-		bottom:20px;
-		border:5px dotted #F00;
-	}
-	
-	#dylansBorder2{
-		position:fixed;
-		left:0px;
-		right:0px;
-		top:0px;
-		bottom:0px;
-		border:5px dotted #3C0;
-	}
-	
-	
-	#hello-world{
-		font-weight: bold;
-		font-family: arial-black; 
-		font-size: 48px;
-		position: fixed;
-		width: 500px;height:80px;
-		z-index: 9999;
-		top:50%;left:50%;
-		margin-left: -250px;
-		margin-top: -40px;
-		text-shadow:3px 3px 3px;
-		-webkit-transition: all 0.3s ease;
-		-moz-transition: all 0.3s ease; -o-transition: all 0.3s ease;
-		-ms-transition: all 0.3s ease;transition: all 0.3s ease;
-	}
+position:fixed;
+left:20px;
+right:20px;
+top:20px;
+bottom:20px;
+border:5px dotted #F00;
+}
 
-	#hello-world:hover{ 
-		text-shadow:3px 3px 3px;
-		/*Added_CSS3*/
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg);
-		-ms-transform: rotate(360deg);
-		transform: rotate(360deg);
-	}
+#dylansBorder2{
+position:fixed;
+left:0px;
+right:0px;
+top:0px;
+bottom:0px;
+border:5px dotted #3C0;
+}
 
-	#cloudart { width:150px;height: 268px; z-index: 10; }
-	.ui-icon { width: 16px; height: 16px; background-image: url(http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/themes/base/images/ui-icons_222222_256x240.png)/*{iconsContent}*/; }
-	.ui-resizable { position: relative;}
-	.ui-resizable-handle { position: absolute;font-size: 0.1px;z-index: 99999; display: block;}
-	.ui-resizable-disabled .ui-resizable-handle, .ui-resizable-autohide .ui-resizable-handle { display: none; }
-	.ui-resizable-n { cursor: n-resize; height: 7px; width: 100%; top: -5px; left: 0px; }
-	.ui-resizable-s { cursor: s-resize; height: 7px; width: 100%; bottom: -5px; left: 0px; }
-	.ui-resizable-e { cursor: e-resize; width: 7px; right: -5px; top: 0px; height: 100%; }
-	.ui-resizable-w { cursor: w-resize; width: 7px; left: -5px; top: 0px; height: 100%; }
-	.ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 1px; bottom: 1px; }
-	.ui-resizable-sw { cursor: sw-resize; width: 9px; height: 9px; left: -5px; bottom: -5px; }
-	.ui-resizable-nw { cursor: nw-resize; width: 9px; height: 9px; left: -5px; top: -5px; }
-	.ui-resizable-ne { cursor: ne-resize; width: 9px; height: 9px; right: -5px; top: -5px;}
-	.ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
-	.ui-resizable-helper { border: 2px dotted #00F; }
 
-	#conceal {	width:300px; height: 100px;
-				background: silver;
-				z-index: 10;
-				top:20%;left:275px;
-				position:absolute; }
+#hello-world{
+font-weight: bold;
+font-family: arial-black;
+font-size: 48px;
+position: fixed;
+width: 500px;height:80px;
+z-index: 9999;
+top:50%;left:50%;
+margin-left: -250px;
+margin-top: -40px;
+text-shadow:3px 3px 3px;
+-webkit-transition: all 0.3s ease;
+-moz-transition: all 0.3s ease; -o-transition: all 0.3s ease;
+-ms-transition: all 0.3s ease;transition: all 0.3s ease;
+}
+
+#hello-world:hover{
+text-shadow:3px 3px 3px;
+/*Added_CSS3*/
+-moz-transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+-o-transform: rotate(360deg);
+-ms-transform: rotate(360deg);
+transform: rotate(360deg);
+}
+
+#cloudart { width:150px;height: 268px; z-index: 10; }
+.ui-icon { width: 16px; height: 16px; background-image: url(http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/themes/base/images/ui-icons_222222_256x240.png)/*{iconsContent}*/; }
+.ui-resizable { position: relative;}
+.ui-resizable-handle { position: absolute;font-size: 0.1px;z-index: 99999; display: block;}
+.ui-resizable-disabled .ui-resizable-handle, .ui-resizable-autohide .ui-resizable-handle { display: none; }
+.ui-resizable-n { cursor: n-resize; height: 7px; width: 100%; top: -5px; left: 0px; }
+.ui-resizable-s { cursor: s-resize; height: 7px; width: 100%; bottom: -5px; left: 0px; }
+.ui-resizable-e { cursor: e-resize; width: 7px; right: -5px; top: 0px; height: 100%; }
+.ui-resizable-w { cursor: w-resize; width: 7px; left: -5px; top: 0px; height: 100%; }
+.ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 1px; bottom: 1px; }
+.ui-resizable-sw { cursor: sw-resize; width: 9px; height: 9px; left: -5px; bottom: -5px; }
+.ui-resizable-nw { cursor: nw-resize; width: 9px; height: 9px; left: -5px; top: -5px; }
+.ui-resizable-ne { cursor: ne-resize; width: 9px; height: 9px; right: -5px; top: -5px;}
+.ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
+.ui-resizable-helper { border: 2px dotted #00F; }
+
+#conceal {	width:300px; height: 100px;
+background: silver;
+z-index: 10;
+top:20%;left:275px;
+position:absolute; }
 
 
 #blue{
-	display:block;
-	position:relative;
-	margin: 0 auto;
-	margin-top:0px;
-	width:600px;
-	height:400px;
-	background-color:yellow;
+display:block;
+position:relative;
+margin: 0 auto;
+margin-top:0px;
+width:600px;
+height:400px;
+background-color:yellow;
 
-	}
+}
 
 #red{
-	position: absolute;
-	margin: 0 auto;
-	width:300px;
-	height:200px;
-	background-color:blue;	
-	margin:100px 0px 0px 150px;
-	
-	-webkit-transition: -webkit-transform 0.2s; -moz-transition: -moz-transform 0.2s; -o-transition: -o-transform 0.2s; transition: transform 0.2s; 
+position: absolute;
+margin: 0 auto;
+width:300px;
+height:200px;
+background-color:blue;	
+margin:100px 0px 0px 150px;
+
+-webkit-transition: -webkit-transform 0.2s; -moz-transition: -moz-transform 0.2s; -o-transition: -o-transform 0.2s; transition: transform 0.2s;
 
 }
 
 #red:hover{
-	-webkit-transform: scale(1.80); -moz-transform: scale(1.80); -ms-transform: scale(1.80); -o-transform: scale(1.80); transform: scale(1.80)
+-webkit-transform: scale(1.80); -moz-transform: scale(1.80); -ms-transform: scale(1.80); -o-transform: scale(1.80); transform: scale(1.80)
 }
 
 
 
 /* Here are some cute lil boxes that you can click */
-	.creature a {
-		width: 70px;height:70px;
-		background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric3.gif);
-		background-repeat: no-repeat;
-		background-position: center;
-		display:block;
-		position:relative;
-		/*Added_CSS3*/
-		transition:All 1s ease-in;
-		-webkit-transition:All 1s ease-in;
-		-moz-transition:All 1s ease-in;
-		-o-transition:All 1s ease-in;
-		transform: scale(1) skew(1deg) translate(10px);
-		-webkit-transform: scale(1) skew(1deg) translate(10px);
-		-moz-transform:  scale(1) skew(1deg) translate(10px);
-		-o-transform:  scale(1) skew(1deg) translate(10px);
-		-ms-transform:  scale(1) skew(1deg) translate(10px);
-		}
+.creature a {
+width: 70px;height:70px;
+background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric3.gif);
+background-repeat: no-repeat;
+background-position: center;
+display:block;
+position:relative;
+/*Added_CSS3*/
+transition:All 1s ease-in;
+-webkit-transition:All 1s ease-in;
+-moz-transition:All 1s ease-in;
+-o-transition:All 1s ease-in;
+transform: scale(1) skew(1deg) translate(10px);
+-webkit-transform: scale(1) skew(1deg) translate(10px);
+-moz-transform: scale(1) skew(1deg) translate(10px);
+-o-transform: scale(1) skew(1deg) translate(10px);
+-ms-transform: scale(1) skew(1deg) translate(10px);
+}
 
-	}
+}
 
-	.creature2 a {
-		margin-left:80px;
-	}
-	.creature3 a {
-		margin-left:160px;
-	}
+.creature2 a {
+margin-left:80px;
+}
+.creature3 a {
+margin-left:160px;
+}
 
-	.creature a:hover{
-	border:2px dotted white;
-	/*Added_CSS3 functionality*/
-	transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-webkit-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-moz-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-o-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-ms-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+.creature a:hover{
+border:2px dotted white;
+/*Added_CSS3 functionality*/
+transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-webkit-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-moz-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-o-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-ms-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
 }
 
 /*Added some weird boxes --> Click them!*/
 
-	.weird a{
-		width: 70px;height:70px;
-		background-image:url(http://i.imgur.com/GH9SJ1A.gif);
-		background-repeat: no-repeat;
-		background-position: center;
-		display:block;
-		position:relative;
-	}
+.weird a{
+width: 70px;height:70px;
+background-image:url(http://i.imgur.com/GH9SJ1A.gif);
+background-repeat: no-repeat;
+background-position: center;
+display:block;
+position:relative;
+}
 
-	.weird2 a{
-		margin-bottom:160px;
-	}
-
-
-	.weird3 a{
-		margin-left:500px;
-	}
-
-		.weird4 a{
-		margin-left:800px;
-		margin-top:400px;
-	}
+.weird2 a{
+margin-bottom:160px;
+}
 
 
-	.weird a:hover{
-	transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-webkit-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-moz-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-o-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	-ms-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
-	}
-	
-	/* added in a sassy link to a Youtube video */
+.weird3 a{
+margin-left:500px;
+}
 
-	h2 {
-
-		margin-left: 500px;
-		position: relative;
-		font-color: #f25aa9;
-		font-size: 18px;
-		font-family: Helvetica;
-		font-style: italic;
-	}
-
-	a:link {
-
-		text-decoration:none;
-
-	}
-
-	a:hover {
-
-		background: #eb9bc5;
+.weird4 a{
+margin-left:800px;
+margin-top:400px;
+}
 
 
-	}
-	
-	/*Just trollin'.*/
-	body{
-		/*This dude has some awesome over-the-top backgrounds, check 'em out!*/
-		/*http://iamchriscollins.com/piece/tile-gifs*/
-		background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric1.gif);
-		background-repeat: no-repeat;
-		background-position: center;
-		padding-top: 200px;
-	}	/*Just trollin'.*/
-	body{
-		background-image:url(http://24.media.tumblr.com/tumblr_lg80miGH2i1qa5z1ro1_400.gif);
-		background-repeat: repeat; /*This is default, but I included it anyway.*/
-	}
+.weird a:hover{
+transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-webkit-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-moz-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-o-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+-ms-transform: rotate(360deg) scale(2) skew(1deg) translate(0px);
+}
+
+/* added in a sassy link to a Youtube video */
+
+h2 {
+
+margin-left: 500px;
+position: relative;
+font-color: #f25aa9;
+font-size: 18px;
+font-family: Helvetica;
+font-style: italic;
+}
+
+a:link {
+
+text-decoration:none;
+
+}
+
+a:hover {
+
+background: #eb9bc5;
+
+
+}
+
+/*Just trollin'.*/
+body{
+/*This dude has some awesome over-the-top backgrounds, check 'em out!*/
+/*http://iamchriscollins.com/piece/tile-gifs
+background-image:url(http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric1.gif);
+background-repeat: no-repeat;
+background-position: center;
+padding-top: 200px;*/
+}	/*Just trollin'.*/
+
+/*changed background*/
+body{
+background-image:url(images/animation.gif);
+background-repeat: repeat; /*This is default, but I included it anyway.*/
+}
+
